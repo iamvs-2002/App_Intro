@@ -8,3 +8,9 @@ App intro helps the user to understand why he is using the application and how t
 - The welcome screen should be shown only once when the app is launched for the very first time. 
 - If the user launches the app a second time, he should directly go to the main screen. 
 - To achieve this, SharedPreferences have been used to store a boolean value indicating first time launch.
+
+#### The video below shows the working of the app:
+
+<p align="left">
+  <img src="https://github.com/iamvs-2002/App_Intro/blob/master/AppIntro.gif" width="250" height="400">
+</p>
