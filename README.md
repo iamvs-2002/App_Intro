@@ -12,5 +12,5 @@ App intro helps the user to understand why he is using the application and how t
 #### The video below shows the working of the app:
 
 <p align="left">
-  <img src="https://github.com/iamvs-2002/App_Intro/blob/master/AppIntro.gif" width="250" height="400">
+  <img src="https://github.com/iamvs-2002/App_Intro/blob/master/AppIntro.gif" width="250" height="500">
 </p>
