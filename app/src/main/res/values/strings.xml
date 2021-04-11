@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Intro</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Screen 1</string>
+    <string name="slide_1_desc">Description Screen 1</string>
+
+    <string name="slide_2_title">Screen 2</string>
+    <string name="slide_2_desc">Description Screen 2</string>
+
+    <string name="slide_3_title">Screen 3</string>
+    <string name="slide_3_desc">Description Screen 3</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
